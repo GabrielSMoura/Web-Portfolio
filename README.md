@@ -1,6 +1,6 @@
 # Gabriel Moura's Personal Website
 
-![Website Screenshot](./assets/img/GabrielSMoura.mp4)
+![Website Screenshot](./assets/img/GabrielSMoura.png)
 
 ## Sobre Mim
 
