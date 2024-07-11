@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Gabriel Moura e sou um estudante de Desenvolvimento de Sistemas atualmente no segundo ano de graduação na Índia. Sou entusiasta de desenvolvimento web e Open-Source, e criei este site como uma forma de me apresentar e mostrar meus projetos e habilidades.
+Olá! Meu nome é Gabriel Moura e sou um estudante de Desenvolvimento de Sistemas atualmente no segundo ano de graduação na FMU. Sou entusiasta de desenvolvimento web e Open-Source, e criei este site como uma forma de me apresentar e mostrar meus projetos e habilidades.
 
 ## Visite o Site
 
