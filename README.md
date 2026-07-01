@@ -113,7 +113,6 @@ Este projeto foi desenvolvido para:
 
 - GitHub: https://github.com/GabrielSMoura
 - LinkedIn: https://www.linkedin.com/in/gabrielsmoura
-- E-mail: *(adicione seu e-mail aqui)*
 
 ---
 
