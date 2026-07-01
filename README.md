@@ -1,48 +1,122 @@
-# Gabriel Moura's Personal Website
+# 🌐 Gabriel Moura | Personal Portfolio
 
 ![Website Screenshot](./assets/img/GabrielSMoura.png)
 
-## Sobre Mim
+## 📖 Sobre o Projeto
 
-Olá! Meu nome é Gabriel Moura e sou um estudante de Desenvolvimento de Sistemas atualmente no segundo ano de graduação na FMU. Sou entusiasta de desenvolvimento web e Open-Source, e criei este site como uma forma de me apresentar e mostrar meus projetos e habilidades.
+Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvido para apresentar minha trajetória, projetos, habilidades e experiências na área de desenvolvimento de software.
 
-## Visite o Site
+Atualmente sou estudante de **Desenvolvimento de Sistemas** na **FMU**, apaixonado por desenvolvimento web, tecnologia e projetos Open Source. Este site funciona como meu cartão de visitas na internet e reúne alguns dos projetos que desenvolvi durante minha jornada.
 
-Você pode visitar meu site pessoal no seguinte link: [Gabriel Moura's Personal Website](https://gabrielsmoura.github.io/Web-Portfolio/)
+## 🚀 Acesse o Projeto
 
-## Tecnologias Utilizadas
+🔗 **Website:** https://gabrielsmoura.github.io/Web-Portfolio/
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **jQuery**
-- **Swiper.js**
-- **Typed.js**
-- **Tilt.js**
-- **Font Awesome**
-- **Unicons**
+---
 
-## Funcionalidades do Site
+## 🛠️ Tecnologias Utilizadas
 
-### 1. Apresentação Interativa
-Utilizo Typed.js para criar animações de digitação que tornam a introdução mais dinâmica e envolvente.
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- jQuery
+- Swiper.js
+- Typed.js
+- Vanilla Tilt.js
+- Font Awesome
+- Unicons
 
-### 2. Slider de Projetos
-Com Swiper.js, criei um carrossel responsivo que apresenta meus projetos de forma visual e interativa.
+---
 
-### 3. Efeito 3D
-Implementei Tilt.js para adicionar efeitos de inclinação 3D nos elementos, proporcionando uma experiência de usuário mais interessante.
+## ✨ Funcionalidades
 
-### 4. Responsividade
-O site é totalmente responsivo, garantindo uma experiência consistente e agradável em dispositivos móveis, tablets e desktops.
+### 💬 Animação de Texto
 
-### 5. Modo Claro/Escuro
-Os usuários podem alternar entre o modo claro e o modo escuro, oferecendo melhor contraste e conforto visual.
+Utiliza **Typed.js** para criar um efeito de digitação na apresentação inicial.
 
-### 6. Scroll to Top
-Um botão de "Scroll to Top" aparece quando você rola a página para baixo, permitindo retornar ao topo com um clique.
+### 🎨 Interface Moderna
+
+Layout limpo e intuitivo, desenvolvido com foco em experiência do usuário (UX).
+
+### 📱 Design Responsivo
+
+Compatível com dispositivos móveis, tablets e desktops.
+
+### 🌙 Tema Claro/Escuro
+
+Permite alternar entre os modos Light e Dark para maior conforto visual.
+
+### 📂 Seção de Projetos
+
+Os projetos são apresentados em um **slider responsivo** utilizando **Swiper.js**.
+
+### 🎯 Efeitos de Interação
+
+Elementos possuem animações e efeitos 3D utilizando **Vanilla Tilt.js**.
+
+### ⬆️ Scroll to Top
+
+Botão para retornar rapidamente ao topo da página.
 
 ```html
 <a href="#" class="scrollup" id="scroll-up">
   <i class="uil uil-arrow-up scrollup_icon"></i>
 </a>
+```
+
+---
+
+## 📁 Estrutura do Projeto
+
+```text
+├── assets/
+│   ├── css/
+│   ├── img/
+│   ├── js/
+│   └── pdf/
+├── index.html
+└── README.md
+```
+
+---
+
+## 💻 Executando Localmente
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/GabrielSMoura/Web-Portfolio.git
+```
+
+Entre na pasta do projeto:
+
+```bash
+cd Web-Portfolio
+```
+
+Abra o arquivo `index.html` no navegador ou utilize uma extensão como **Live Server** no VS Code.
+
+---
+
+## 📌 Objetivos
+
+Este projeto foi desenvolvido para:
+
+- Apresentar meu portfólio profissional;
+- Compartilhar projetos desenvolvidos;
+- Demonstrar conhecimentos em desenvolvimento Front-end;
+- Servir como base para futuras melhorias e experimentações.
+
+---
+
+## 📬 Contato
+
+- GitHub: https://github.com/GabrielSMoura
+- LinkedIn: https://www.linkedin.com/in/gabrielsmoura
+- E-mail: *(adicione seu e-mail aqui)*
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença **MIT**. Sinta-se à vontade para utilizá-lo como inspiração para criar seu próprio portfólio.
